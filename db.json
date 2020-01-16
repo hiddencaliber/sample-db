@@ -1,0 +1,2361 @@
+{
+    "tokens": [
+      {
+        "access_token": "n9svKdpDdhlAypaNNb45",
+        "id": "rramaswamy"
+      },
+      {
+        "access_token": "p7MBKRB8QOywSCRp2i89",
+        "id": "ahower"
+      },
+      {
+        "access_token": "GWaYZxqybCCQaC8l6CTk",
+        "id": "vjain"
+      },
+      {
+        "access_token": "amITDmPjeLYbUPcs0opA",
+        "id": "mlwilliams"
+      }
+    ],
+    "reference-data": {
+      "caseTypes": [
+        {
+          "description": "Chinese and Japanese exam processing",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            }
+          ]
+        },
+        {
+          "description": "Duplicate or multiple AP # case",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Review Pulled Materials"
+            }
+          ]
+        },
+        {
+          "description": "SeNT Incomplete Exam Investigation",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam code or form type mismatch"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Forwarded to SSD"
+            },
+            {
+              "description": "Mismatched media file"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Review Pulled Materials"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            },
+            {
+              "description": "Student cancellation"
+            }
+          ]
+        },
+        {
+          "description": "IDMS Incomplete exam investigation",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam code or form type mismatch"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Not Checked-In"
+            },
+            {
+              "description": "Mismatched media file"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Review Pulled Materials"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            },
+            {
+              "description": "Student cancellation"
+            }
+          ]
+        },
+        {
+          "description": "Incorrect test date",
+          "dispositions": [
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Forwarded case to OTI"
+            }
+          ]
+        },
+        {
+          "description": "IR investigation",
+          "dispositions": [
+            {
+              "description": "A/S in Ink"
+            },
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Full Retest - when will this be used?"
+            },
+            {
+              "description": "Misplaced Answers"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Review Pulled Materials"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            }
+          ]
+        },
+        {
+          "description": "Loose Essay Investigations",
+          "dispositions": [
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Out to SROPS"
+            }
+          ]
+        },
+        {
+          "description": "Late materials received in July",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Forwarded case to OTI"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            }
+          ]
+        },
+        {
+          "description": "Late materials received in August",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Forwarded case to OTI"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            }
+          ]
+        },
+        {
+          "description": "Late materials received in September",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Forwarded case to OTI"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            }
+          ]
+        },
+        {
+          "description": "Late materials received in October",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Forwarded case to OTI"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            }
+          ]
+        },
+        {
+          "description": "NAR verification",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Nonstandard Administration Report Required"
+            },
+            {
+              "description": "Verified accommodation/time"
+            }
+          ]
+        },
+        {
+          "description": "No signature for student cancellation or suppression",
+          "dispositions": [
+            {
+              "description": "Requires Signature"
+            }
+          ]
+        },
+        {
+          "description": "OTI investigation",
+          "dispositions": [
+            {
+              "description": "Forwarded case to OTI"
+            },
+            {
+              "description": "Forwarded due to Plagarism"
+            }
+          ]
+        },
+        {
+          "description": "Partial/Mixed form exam",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Review Pulled Materials"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            }
+          ]
+        },
+        {
+          "description": "School mis-administered exam",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Review Pulled Materials"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            }
+          ]
+        },
+        {
+          "description": "SSD accommodation irregularity",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            },
+            {
+              "description": "Wrote answers in test booklet"
+            },
+            {
+              "description": "Foldered - Sent to Contact Group"
+            }
+          ]
+        },
+        {
+          "description": "SSD special form exam",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Forwarded to SSD"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Nonstandard Administration Report Required"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Review Pulled Materials"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            },
+            {
+              "description": "Verified accommodation/time"
+            }
+          ]
+        },
+        {
+          "description": "Studio Art – Digital portfolio not sent to AP",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Forwarded to Helpline for Contact"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Portfolio not started/in progress"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            },
+            {
+              "description": "Student cancellation"
+            }
+          ]
+        },
+        {
+          "description": "Studio Art – Quality not checked in/missing",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Exam pieces require update"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Not Checked-In - this is the same as the disposition.  \"Exam pieces require update\" should be used for entering G/S with NRs"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            },
+            {
+              "description": "Student cancellation"
+            }
+          ]
+        },
+        {
+          "description": "Typed essay verification",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Forwarded to SSD"
+            },
+            {
+              "description": "Missing Piece"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Sent to PO for Investigation"
+            }
+          ]
+        },
+        {
+          "description": "Ungradeable media",
+          "dispositions": [
+            {
+              "description": "Awaiting scoring (APQC/Systems/Projections)"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Out to SROPS"
+            },
+            {
+              "description": "Out to PAR"
+            },
+            {
+              "description": "Ready for Foldering Team"
+            },
+            {
+              "description": "Forwarded to Contact Group for Option Letter"
+            },
+            {
+              "description": "Review Pulled Materials"
+            }
+          ]
+        },
+        {
+          "description": "Answers in Test Booklet",
+          "dispositions": [
+            {
+              "description": "Awaiting customer information/contact"
+            },
+            {
+              "description": "Book or Media Check"
+            },
+            {
+              "description": "Awaiting Transcription"
+            }
+          ]
+        }
+      ],
+      "hold-matrices": [
+        {
+          "code": "H1",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "IR",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "IR investigation"
+        },
+        {
+          "code": "H2",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "AITB",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "Answers in Test Booklet"
+        },
+        {
+          "code": "H3",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Investigation",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H4",
+          "description": "Score Cancelled - Students choice per options received",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H5",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Plagiarism",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "OTI investigation"
+        },
+        {
+          "code": "H31",
+          "description": "Score Delayed due to missing portion of exam",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H32",
+          "description": "Score Delayed due to missing portion of exam",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H33",
+          "description": "Nonstandard Administration",
+          "department": "SSD",
+          "process": "Accommodations",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H34",
+          "description": "School Reported Distraction During Exam",
+          "department": "Resolutions",
+          "process": "IR",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H37",
+          "description": "Portion of Exam Lost - Score Projected from Remainder",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H38",
+          "description": "Media Not Scoreable - Score Projected from Remainder",
+          "department": "Resolutions",
+          "process": "Ungradable Media",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H40",
+          "description": "School Reported Under timing of more than 5 Minutes",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H42",
+          "description": "Portion Un-scoreable- Score Projected from Remainder",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H44",
+          "description": "Score Projected from Multiple Choice Section",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H51",
+          "description": "Score Projected from Free Response Section",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H57",
+          "description": "Score Projected from Multiple and Free Response Section",
+          "department": "Resolutions",
+          "process": "Ungradable Media|Option Letter",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H80",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Braille",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H81",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Incomplete Exam",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "Duplicate or multiple AP # case"
+        },
+        {
+          "code": "H83",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Typed Essay/Multi Day",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H84",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Partials",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "Partial/Mixed form exam"
+        },
+        {
+          "code": "H85",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Investigation",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H86",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "SSD",
+          "process": "Investigation",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "NAR verification"
+        },
+        {
+          "code": "H87",
+          "description": "Score Canceled due to Missing Portion of Exam",
+          "department": "AP Contact Group",
+          "process": "Option Letter",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H88",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "SSD",
+          "process": "NAR Investigation",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "SSD accommodation irregularity"
+        },
+        {
+          "code": "H89",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "OTI",
+          "process": "Security Hold",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H90",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "IR",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H92",
+          "description": "Score Canceled",
+          "department": "OTI",
+          "process": "Score Cancellation",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H93",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "OTI",
+          "process": "Security Hold",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H94",
+          "description": "Score Canceled at Students Request",
+          "department": "Customer Fulfillment",
+          "process": "Student Cancellation",
+          "type": "EVENT_MESSAGE",
+          "requiresCaseTypeAndDisposition": false,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H95",
+          "description": "Second Exam Cancelled - Was not Authorized",
+          "department": "Resolutions",
+          "process": "Score Cancellation",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H96",
+          "description": "In Process- Contact us If score is not received by 09/01",
+          "department": "Resolutions",
+          "process": "Incomplete Exam",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        },
+        {
+          "code": "H97",
+          "description": "Score Delayed- Will be reported as soon as possible",
+          "department": "Resolutions",
+          "process": "Security Hold",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": "Incorrect test date"
+        },
+        {
+          "code": "H98",
+          "description": "Score Withheld on College Report at Students Request",
+          "department": "Customer Fulfillment",
+          "process": "Student Score Suppression",
+          "type": "HOLD",
+          "requiresCaseTypeAndDisposition": true,
+          "caseTypeAutoApplication": ""
+        }
+      ]
+    },
+    "groups": [
+      {
+        "name": "Resolutions",
+        "holds": [
+          "H1",
+          "H2",
+          "H3",
+          "H5",
+          "H34",
+          "H38",
+          "H57",
+          "H80",
+          "H81",
+          "H83",
+          "H84",
+          "H85",
+          "H90",
+          "H95",
+          "H96",
+          "H97",
+          "H98"
+        ]
+      },
+      {
+        "name": "AP Contact Group",
+        "holds": [
+          "H4",
+          "H31",
+          "H32",
+          "H37",
+          "H40",
+          "H42",
+          "H44",
+          "H51",
+          "H87"
+        ]
+      },
+      {
+        "name": "SSD",
+        "holds": [
+          "H33",
+          "H86",
+          "H88"
+        ]
+      },
+      {
+        "name": "Customer Fulfillment",
+        "holds": [
+          "H94",
+          "H98"
+        ]
+      },
+      {
+        "name": "Management",
+        "holds": []
+      },
+      {
+        "name": "OTI",
+        "holds": [
+          "H89",
+          "H92",
+          "H93"
+        ]
+      }
+    ],
+    "users": [
+      {
+        "firstName": "Ravi",
+        "lastName": "Ramaswamy",
+        "status": "ACTIVE",
+        "email": "rramaswamy@ets.org",
+        "group": "Resolutions",
+        "id": "n9svKdpDdhlAypaNNb45",
+        "permissions": {
+          "CASE_VIEW": {},
+          "CASE_UPDATE": {},
+          "HOLD_VIEW": {
+            "types": [
+              "H1",
+              "H2",
+              "H3",
+              "H5",
+              "H34",
+              "H38",
+              "H57",
+              "H80",
+              "H81",
+              "H83",
+              "H84",
+              "H85",
+              "H90",
+              "H95",
+              "H96",
+              "H97",
+              "H98"
+            ]
+          },
+          "HOLD_UPDATE": {
+            "types": [
+              "H1",
+              "H2",
+              "H3",
+              "H5",
+              "H34",
+              "H38",
+              "H57",
+              "H80",
+              "H81",
+              "H83",
+              "H84",
+              "H85",
+              "H90",
+              "H95",
+              "H96",
+              "H97",
+              "H98"
+            ]
+          }
+        }
+      },
+      {
+        "firstName": "Krishna",
+        "lastName": "Arkala",
+        "status": "ACTIVE",
+        "email": "karkala@ets.org",
+        "group": "AP Contact Group",
+        "id": "n9svKdpDdhlAypaNNb45123",
+        "permissions": {
+          "CASE_VIEW": {},
+          "CASE_UPDATE": {},
+          "HOLD_VIEW": {
+            "types": [
+              "H4",
+              "H31",
+              "H32",
+              "H37",
+              "H40",
+              "H42",
+              "H44",
+              "H51",
+              "H87"
+            ]
+          },
+          "HOLD_UPDATE": {
+            "types": [
+              "H4",
+              "H31",
+              "H32",
+              "H37",
+              "H40",
+              "H42",
+              "H44",
+              "H51",
+              "H87"
+            ]
+          }
+        }
+      },
+      {
+        "firstName": "Anne",
+        "lastName": "Hower",
+        "status": "ACTIVE",
+        "email": "ahower@ets.org",
+        "group": "SSD",
+        "id": "p7MBKRB8QOywSCRp2i89",
+        "permissions": {
+          "CASE_VIEW": {},
+          "CASE_UPDATE": {},
+          "HOLD_VIEW": {
+            "types": [
+              "H33",
+              "H86",
+              "H88"
+            ]
+          },
+          "HOLD_UPDATE": {
+            "types": [
+              "H33",
+              "H86",
+              "H88"
+            ]
+          }
+        }
+      },
+      {
+        "firstName": "Vinit",
+        "lastName": "Jain",
+        "status": "ACTIVE",
+        "email": "vjain@ets.org",
+        "group": "Customer Fulfillment",
+        "id": "GWaYZxqybCCQaC8l6CTk",
+        "permissions": {
+          "CASE_VIEW": {},
+          "CASE_UPDATE": {},
+          "HOLD_VIEW": {
+            "types": [
+              "H94",
+              "H98"
+            ]
+          },
+          "HOLD_UPDATE": {
+            "types": [
+              "H94",
+              "H98"
+            ]
+          }
+        }
+      },
+      {
+        "firstName": "Monica",
+        "lastName": "Williams",
+        "status": "ACTIVE",
+        "email": "mlwilliams@ets.org",
+        "group": "Management",
+        "id": "amITDmPjeLYbUPcs0opA",
+        "permissions": {
+          "CASE_VIEW": {},
+          "CASE_UPDATE": {},
+          "HOLD_VIEW": {
+            "types": []
+          },
+          "HOLD_UPDATE": {
+            "types": []
+          }
+        }
+      },
+      {
+        "firstName": "Vishwajeet",
+        "lastName": "Rai",
+        "status": "ACTIVE",
+        "email": "vrai@ets.org",
+        "group": "OTI",
+        "id": "amITDmPjeLYbUPcs0opA213",
+        "permissions": {
+          "CASE_VIEW": {},
+          "CASE_UPDATE": {},
+          "HOLD_VIEW": {
+            "types": [
+              "H89",
+              "H92",
+              "H93"
+            ]
+          },
+          "HOLD_UPDATE": {
+            "types": [
+              "H89",
+              "H92",
+              "H93"
+            ]
+          }
+        }
+      }
+    ],
+    "cases": [
+      {
+        "id": "4e2a7663cc3347b99b6c9bc36cbe7faf",
+        "admin": 519,
+        "apNumber": "196215742",
+        "firstName": "Clemens",
+        "lastName": "Quarrie",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H2",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "LOCKED",
+            "lockedBy":"mlwilliams",
+            "lockedOn":1578553584355,
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            },
+            "comments": [{
+              "type": "HOLD",
+              "text": "Test Comment 1",
+              "created": 1578553584355,
+              "createdBy": "VJAIN"
+            },
+            {
+              "type": "HOLD",
+              "text": "Test Comment 2",
+              "created": 1578553688555,
+              "createdBy": "VJAIN"
+            }]
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H3",
+            "type": "HOLD",
+            "caseType": "SeNT Incomplete Exam Investigation",
+            "disposition": "Forwarded to Contact Group for Option Letter",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "ASSIGNED",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H4",
+            "type": "EVENT_MESSAGE",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "RESOLVED",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H5",
+            "type": "HOLD",
+            "caseType": "Duplicate or multiple AP # case",
+            "disposition": "Book or Media Check",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "RESOLVED",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "01b71cb5a6234f26b3340ab336308b98",
+        "admin": 519,
+        "apNumber": "857082423",
+        "firstName": "Nahum",
+        "lastName": "Colpus",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H87",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "37b88170ba2f4cafb1e8c8ed20ef6647",
+        "admin": 519,
+        "apNumber": "588223547",
+        "firstName": "Morly",
+        "lastName": "Hoodlass",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H5",
+            "type": "HOLD",
+            "caseType": "Duplicate or multiple AP # case",
+            "disposition": "Book or Media Check",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "RESOLVED",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H87",
+            "type": "HOLD",
+            "caseType": "Duplicate or multiple AP # case",
+            "disposition": "Book or Media Check",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "RESOLVED",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H4",
+            "type": "EVENt_MESSAGE",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "RESOLVED",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "RESOLVED",
+        "comments": [{
+          "type": "CASE",
+          "text": "massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "052a6fd4f2834a9c8e8ef9315af4c72d",
+        "admin": 519,
+        "apNumber": "851313087",
+        "firstName": "Martin",
+        "lastName": "Astbery",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H2",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H3",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "b4b8d1038f624de1b31402a908513e92",
+        "admin": 519,
+        "apNumber": "859847655",
+        "firstName": "Aldon",
+        "lastName": "Brickell",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H3",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "3a88d63af84c40459087f163bf566804",
+        "admin": 519,
+        "apNumber": "439118353",
+        "firstName": "Vivianne",
+        "lastName": "Malden",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H87",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H2",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "felis sed interdum venenatis turpis enim blandit mi in porttitor",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "2befbf62c99242b78c27be297a55136e",
+        "admin": 519,
+        "apNumber": "956422249",
+        "firstName": "Zita",
+        "lastName": "Jeffes",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H3",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+          
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "sapien non mi integer ac neque duis bibendum morbi non quam nec",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "7552fe6943c94519bf92a627b94ab67a",
+        "admin": 519,
+        "apNumber": "999525846",
+        "firstName": "Ichabod",
+        "lastName": "Fermoy",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "LOCKED",
+            "lockedBy":"mlwilliams",
+            "lockedOn":1578553584355,
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "b436a9ed3de84cd8bb53ec08380e39d0",
+        "admin": 519,
+        "apNumber": "427650847",
+        "firstName": "Gus",
+        "lastName": "Tranfield",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H89",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H97",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "9a1101affb4d4034a80a5963c80bf205",
+        "admin": 519,
+        "apNumber": "272842124",
+        "firstName": "Gianina",
+        "lastName": "Bearham",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "LOCKED",
+            "lockedBy":"mlwilliams",
+            "lockedOn":1578553584355,
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H3",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "LOCKED",
+            "lockedBy":"mlwilliams",
+            "lockedOn":1578553584355,
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "73c9b40f4fb74be3b606a6500a22e90b",
+        "admin": 519,
+        "apNumber": "733153964",
+        "firstName": "Shawn",
+        "lastName": "Simonelli",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H97",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      },
+      {
+        "id": "bc5eb95b4a264e699a36a74fcf4a4e51",
+        "admin": 519,
+        "apNumber": "939142420",
+        "firstName": "Ferris",
+        "lastName": "Kolak",
+        "middleInitial": "M",
+        "aiCode": 311555,
+        "diCode": "002118",
+        "exam": 37,
+        "formGroup": "O",
+        "asForm": "O",
+        "asBatch": 130,
+        "asSerial": 394,
+        "gs2Form": "",
+        "gs2Batch": 0,
+        "gs2Serial": 0,
+        "gs3Form": "",
+        "gs3Batch": 0,
+        "gs3Serial": 0,
+        "gs4Form": "",
+        "gs4Batch": 0,
+        "gs4Serial": 0,
+        "holds": [
+          {
+            "id": 123423423412341234,
+            "code": "H1",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "LOCKED",
+            "lockedBy":"mlwilliams",
+            "lockedOn":1578553584355,
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H2",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          },
+          {
+            "id": 123423423412341234,
+            "code": "H87",
+            "type": "HOLD",
+            "caseType": "",
+            "disposition": "",
+            "lockStatus": "UNLOCKED",
+            "holdStatus": "NEW",
+            "lastUpdated": 1578553584355,
+            "lastUpdatedBy": "VJAIN",
+            "created": 1578553584355,
+            "createdBy": "VJAIN",
+            "caseTypeAudit": {
+              "created": 1578553584355,
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "lastUpdatedBy": "VJAIN"
+            },
+            "dispositionAudit": {
+              "lastUpdatedBy": "VJAIN",
+              "lastUpdated": 1578553584355,
+              "createdBy": "VJAIN",
+              "created": 1578553584355
+            }
+          }
+        ],
+        "createdBy": "VJAIN",
+        "lastUpdatedBy": "VJAIN",
+        "created": 1578553584355,
+        "lastUpdated": 1578553584355,
+        "caseStatus": "NEW",
+        "comments": [{
+          "type": "CASE",
+          "text": "dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est",
+          "created": 1578553584355,
+          "createdBy": "VJAIN"
+        }]
+      }
+    ]
+  }
